@@ -354,3 +354,9 @@ font-weight: bold;
 	border-radius: 15px;
 	margin: 0;
 }
+
+.h5p-accordion .h5p-panel-title:hover {
+color: #007EA8;
+}
+
+
