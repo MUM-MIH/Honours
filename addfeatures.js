@@ -22,7 +22,6 @@ window.addEventListener('load',function(){
 	else{
 		console.log('not Key Contacts Section or is section 0')
 	}
-	}
 		
 	//check if we are on the important policy section and if that section is section20
 	if (assessmentSectionName.match(/Important Policy/) != null && window.location.href.slice(-11) == "&section=16"){
